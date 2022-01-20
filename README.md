@@ -71,7 +71,7 @@ https://bbichul.site/
 6.마이 페이지 목표 달성 기능
 * 목표 기간과 시간 설정 후 그래프로 달성 퍼센트 확인
 * chart.js를 이용한 일별, 요일별 공부시간 확인 그래프
-
+### 📌  부하테스트 -<a href ="https://github.com/sunghoonking/BBI-CHUL-spring/wiki/%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8">상세보기 - WIKI 이동</a>
 ### 📌 문제를 이렇게 해결했어요! - <a href="https://github.com/Dae-Hwan/BBI-CHUL-spring/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85" >상세보기 - WIKI 이동</a>
 
 ### 📌 KPT회고 - <a href="https://github.com/choidaehwan/bbichul-spring/wiki/KPT-%ED%9A%8C%EA%B3%A0" >상세보기 - WIKI 이동</a>
